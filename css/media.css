@@ -1,0 +1,114 @@
+@media screen and (max-width: 1400px){
+	.btn-lg, .btn-group-lg > .btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+	}
+	.btn {
+    font-weight: 400;
+    line-height: 1.8;
+	}
+	nav ul li a {
+    padding: 15px !important;
+	}
+	.text {
+    padding: 33px 20px;
+	}
+
+}
+
+@media screen and (max-width: 1200px){
+	nav ul li a {
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px !important;
+	}
+	.btn-lg, .btn-group-lg > .btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+	}
+	.btn {
+    font-weight: 400;
+    line-height: 1.8;
+	}
+	.form-control {
+    display: none;
+	}
+	.box5 {
+    padding: 30px 0px;
+	}
+	.heading1 h4 {
+    font-size: 31px;
+	}
+	.box3 {
+    padding: 3px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	.text {
+    padding: 23px 33px;
+	}
+
+	.text2 h3 {
+    font-size: 20px;
+	}
+	.text2 h1 {
+	    font-size: 105px;
+	}
+	.heading1 h4 {
+    font-size: 25px;
+	}
+	.box5 {
+    padding: 0px;
+	}
+	.heading h1 {
+    font-size: 50px;
+	}
+	.copyright a {
+    font-size: 13px;
+	}
+	.copyright p {
+    font-size: 13px;
+	}
+}
+
+@media screen and (max-width: 767) {
+	.heading h1 {
+    font-size: 48px;
+	}
+	.text1 p {
+    font-size: 15px;
+	}
+	.text2 p {
+    font-size: 16px;
+	}
+	.join h4 {
+    font-size: 22px;
+    padding: 6px 0;
+	}
+	.heading1 h4 {
+    font-size: 25px;
+	}
+}
+
+@media screen and (max-width: 575px) {
+	.heading1 h4 {
+    font-size: 23px;
+	}
+	.text2 p {
+    font-size: 14px;
+    font-weight: 300;
+ 	}
+ 	.copyright p {
+    font-size: 13px;
+	}
+	.copyright a {
+    font-size: 13px;
+	}
+}
+
+@media screen and (max-width: 574px) {
+	.heading h1 {
+    font-size: 40px;
+	}
+}
